@@ -32,7 +32,7 @@ This creates a complete IT/OT system with a digital twin visualisation.
 | 22               | Indigo | (75,0,130)  |
 | 23               | Violet | (148,0,211) |
 
-#Technologies Used
+# Technologies Used
 - Language: Python
 - Message Broker: Mosquitto MQTT Broker
 - Digital Twin: Blender scripting
