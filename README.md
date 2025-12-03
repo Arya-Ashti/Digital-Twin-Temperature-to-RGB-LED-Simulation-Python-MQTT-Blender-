@@ -32,3 +32,15 @@ This creates a complete IT/OT system with a digital twin visualisation.
 | 22               | Indigo | (75,0,130)  |
 | 23               | Violet | (148,0,211) |
 
+#Technologies Used
+- Language: Python
+- Message Broker: Mosquitto MQTT Broker
+- Digital Twin: Blender scripting
+
+# How to use
+1. Start Mosquitto MQTT Broker and ensure port 1883 is accessible
+2. Run temperature sensor first, i.e sensor.py
+3. Run RGB controller, i.e led.py
+4. Run Blender script
+5. (Optional) Open Blender Python console log to view new instances of data retrieved.
+
