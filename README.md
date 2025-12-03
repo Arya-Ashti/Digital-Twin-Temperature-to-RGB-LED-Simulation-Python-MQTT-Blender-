@@ -21,8 +21,9 @@ This creates a complete IT/OT system with a digital twin visualisation.
    - led/rgb → RGB colour mapping
 
 3) Temperature to RGB Mapping logic:
+
 | Temperature (°C) | Colour | RGB         |
-| :---------------:| :-----:| :---------: |
+| ---------------- | ------ | ----------- |
 | 17               | Red    | (255,0,0)   |
 | 18               | Orange | (255,165,0) |
 | 19               | Yellow | (255,255,0) |
@@ -30,3 +31,4 @@ This creates a complete IT/OT system with a digital twin visualisation.
 | 21               | Blue   | (0,0,255)   |
 | 22               | Indigo | (75,0,130)  |
 | 23               | Violet | (148,0,211) |
+
